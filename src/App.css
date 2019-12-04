@@ -1,0 +1,6 @@
+.myDiv {
+  background-image: url('./static//picture.jpg');
+  height: 100vh; 
+  background-size: cover;
+  background-position: center;
+}

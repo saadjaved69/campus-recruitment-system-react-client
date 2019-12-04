@@ -1,0 +1,22 @@
+form {
+    margin-top: 50
+}
+
+
+.student-form {
+    margin-left: 400px;
+    margin-top: 110px
+}
+
+.student-width {
+    width: 300px;
+    display: block;
+}
+
+div h3 {
+    margin-left: 25px ;
+    color: rebeccapurple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px
+    
+}
